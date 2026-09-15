@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я Денис Мельниченко 👋
 
-<!--
-**Denis-Melnichenko/Denis-Melnichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Аналитик данных с сильным инженерным бэкграундом и 10-летним опытом управления процессами и командами в энергетическом секторе. Умею находить аномалии в системах, автоматизировать рутинные расчеты и переводить массивы цифр в понятные выводы для бизнеса.
 
-Here are some ideas to get you started:
+## 💼 Статус занятости
+* **Текущий статус:** В активном поиске работы (целевая позиция: Аналитик данных).
+* **Формат работы:** Готов к удаленной работе или переезду в РФ (гражданство РФ, разрешение на работу есть).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек технологий
+* **Базы данных:** SQL (PostgreSQL: SELECT, JOIN, GROUP BY)
+* **Программирование и анализ:** Python (Pandas, Jupyter Notebook, Anaconda)
+* **BI и визуализация:** Yandex DataLens, MS Excel / Google Таблицы (ВПР / VLOOKUP, СУММЕСЛИМН / SUMIFS, сводные таблицы)
+* **Методологии:** Проверка гипотез, A/B-тестирование, ad-hoc аналитика
+
+## 🎯 Личные качества
+Высокая усидчивость и концентрация при выполнении монотонных задач, системный подход, самостоятельность и развитое внимание к деталям. 
+
+## 📬 Контакты
+* **Telegram:** https://t.me/denis_melnichenko
+* **Email:** roymio311@yandex.ru
